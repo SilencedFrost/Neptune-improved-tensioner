@@ -12,14 +12,19 @@ This work is licensed under a
 ![Thumbnail](Images/thumbnail.png)
 
 Want a better backup for your tensioner in case it breaks?
+
 Too tired of belt rubbing on the ends of extrusions?
+
 Still not tense enough at the end of the movement range?
+
 Or just simply needing an upgrade
 
 This tensioner does it all, being carefully designed to shove as much material into the part, enhancing strenth, it aligns better with the rails on the stock cover, have more tension range, and it uses a proper toothed idler!
 
 🤩 Do you like the design?
+
 [Consider supporting me!](https://buymeacoffee.com/silencedfrost) It immensely help me design more models like this!
+
 Submit feature requests [here!](https://trello.com/b/vacGVoLQ/cad-modelling-requests)
 
 Features:
