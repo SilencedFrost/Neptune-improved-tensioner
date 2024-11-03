@@ -19,8 +19,8 @@ Or just simply needing an upgrade
 This tensioner does it all, being carefully designed to shove as much material into the part, enhancing strenth, it aligns better with the rails on the stock cover, have more tension range, and it uses a proper toothed idler!
 
 🤩 Do you like the design?
-Consider supporting me! It immensely help me design more models like this!
-Submit feature requests here!
+[Consider supporting me!](https://buymeacoffee.com/silencedfrost) It immensely help me design more models like this!
+Submit feature requests [here!](https://trello.com/b/vacGVoLQ/cad-modelling-requests)
 
 Features:
 - Reduces belt rubbing
