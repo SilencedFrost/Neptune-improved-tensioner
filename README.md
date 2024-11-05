@@ -50,7 +50,6 @@ Recommended materials:
  - Any low-creep plastic
 
 Installation requires:
- - 1 * M3 heatset insert
  - 1 * M3 x 25mm BHCS
  - 1 * M3 x 8mm BHCS
  - 1 * M3 x 12mm binding screw
