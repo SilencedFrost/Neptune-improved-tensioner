@@ -56,6 +56,6 @@ Installation requires:
  - 1 * 4 x 18 x 8.5 GT2 idler (check image)
 
 Installation guide:
-![Install pull screw](Images/installation%20guide%20-%20first%20step.png)
+![Install pull screw](/Images/installation%20guide%20-%20first%20step.png)
 ![Install assembly onto belt and idler](Images/installation%20guide%20-%20second%20step.png)
 ![Lock the idler with screws](Images/installation%20guide%20-%20third%20step.png)
