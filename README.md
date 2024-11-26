@@ -33,7 +33,7 @@ Features:
 - Automatically align better
 - More adjustment range
 - Built sturdier than stock
-- Suitable for the neptune 3 and 4 lineup (except n4Pro)
+- Suitable for the neptune 3 and 4 lineup
 
 NOTE:
 Put the belt over the idler before putting it in
