@@ -22,9 +22,11 @@ Or just simply needing an upgrade
 
 This tensioner does it all, being carefully designed to shove as much material into the part, enhancing strenth, it aligns better with the rails on the stock cover, have more tension range, and it uses a proper toothed idler!
 
-🤩 Do you like the design?
+🤩 Do you like the design? You can help fund innovations like this!
 
-[Consider supporting me!](https://buymeacoffee.com/silencedfrost) It immensely help me design more models like this!
+[Consider supporting me!](https://buymeacoffee.com/silencedfrost)
+
+Much appreciation given to my supporters, and you get exclusive access to various CAD files!
 
 Submit feature requests [here!](https://trello.com/b/vacGVoLQ/cad-modelling-requests)
 
